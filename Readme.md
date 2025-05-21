@@ -1,3 +1,4 @@
+#.env
 SUPABASE_URL
 https://ejewcztapalrpripfrwz.supabase.co
 SUPABASE_ANON_KEY
@@ -34,7 +35,7 @@ Method: POST
 Request Body:
 text=&user_name=alice
 
-🧠 5. Summarize Todos via Slack
+ 5. Summarize Todos via Slack
 URL: http://localhost:4000/slack/summary
 Method: POST
 
